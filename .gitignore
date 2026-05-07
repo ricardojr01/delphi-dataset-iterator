@@ -1,0 +1,30 @@
+# Compiled outputs
+*.dcu
+*.exe
+*.dll
+*.bpl
+*.bpi
+*.dcp
+*.so
+*.apk
+*.drc
+*.map
+*.dres
+*.rsm
+*.tds
+
+# IDE Settings and Layouts
+*.dsk
+*.identcache
+*.local
+*.stat
+*.tvsconfig
+*.~*
+__history/
+__recovery/
+ModelSupport_*/
+*.otares
+
+# Boss (Delphi Package Manager)
+modules/
+boss.lock
